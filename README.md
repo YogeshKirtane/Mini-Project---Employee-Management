@@ -1,4 +1,7 @@
-# Mini-Project---Employee-Management
+# Employee-Management
+
+Framework : ASP.NET MVC 6
+
 This project was developed to maintain the personal and official details of the employees working in the organization. It aims to simplify the task of maintaining records of the employees of the company.
 
 # Home page
